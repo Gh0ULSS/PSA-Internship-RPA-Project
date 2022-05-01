@@ -1,0 +1,4 @@
+﻿System.Runtime.InteropServices.COMException (0x800A03EC): Cannot run the macro ''C:\Users\rjzeng\AppData\Roaming\Microsoft\Excel\XLSTART\PERSONAL.XLSB'!ConstantFont'. The macro may not be available in this workbook or all macros may be disabled.
+   at UiPath.Excel.Activities.ExecuteMacro.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)

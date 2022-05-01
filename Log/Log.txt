@@ -1,0 +1,579 @@
+﻿Read config file successfully at 07/05/2018 14:07:53
+Kill process and initialize successfully at 07/05/2018 14:07:58
+Read Email successfully at 07/05/2018 14:08:05
+Read config file successfully at 07/05/2018 14:19:02
+Kill process and initialize successfully at 07/05/2018 14:19:05
+Read Email successfully at 07/05/2018 14:19:12
+Read config file successfully at 07/05/2018 14:38:00
+Kill process and initialize successfully at 07/05/2018 14:38:05
+Read Email successfully at 07/05/2018 14:38:12
+Error in reading excel file at 07/05/2018 14:38:14
+Read config file successfully at 07/05/2018 14:45:00
+Kill process and initialize successfully at 07/05/2018 14:45:04
+Read Email successfully at 07/05/2018 14:45:12
+Error in reading excel file at 07/05/2018 14:45:13
+Read config file successfully at 07/05/2018 14:47:29
+Kill process and initialize successfully at 07/05/2018 14:47:31
+Read Email successfully at 07/05/2018 14:47:39
+Error in reading excel file at 07/05/2018 14:47:41
+Read config file successfully at 07/05/2018 14:48:40
+Kill process and initialize successfully at 07/05/2018 14:48:43
+Read Email successfully at 07/05/2018 14:48:51
+Read config file successfully at 07/05/2018 14:50:19
+Kill process and initialize successfully at 07/05/2018 14:50:20
+Read Email successfully at 07/05/2018 14:50:28
+Read config file successfully at 07/05/2018 14:51:40
+Kill process and initialize successfully at 07/05/2018 14:51:42
+Read Email successfully at 07/05/2018 14:51:49
+Read config file successfully at 07/05/2018 14:54:11
+Kill process and initialize successfully at 07/05/2018 14:54:13
+Read Email successfully at 07/05/2018 14:54:19
+Read config file successfully at 07/05/2018 14:55:49
+Kill process and initialize successfully at 07/05/2018 14:55:51
+Read Email successfully at 07/05/2018 14:55:58
+Read config file successfully at 07/05/2018 15:01:57
+Kill process and initialize successfully at 07/05/2018 15:01:59
+Read Email successfully at 07/05/2018 15:02:07
+Read config file successfully at 07/05/2018 15:04:27
+Kill process and initialize successfully at 07/05/2018 15:04:29
+Read Email successfully at 07/05/2018 15:04:36
+Read config file successfully at 07/05/2018 15:08:37
+Kill process and initialize successfully at 07/05/2018 15:08:39
+Read Email successfully at 07/05/2018 15:08:46
+Read config file successfully at 07/05/2018 15:27:02
+Kill process and initialize successfully at 07/05/2018 15:27:05
+Read Email successfully at 07/05/2018 15:27:15
+Error in reading excel file at 07/05/2018 15:27:17
+Read config file successfully at 07/05/2018 16:10:59
+Kill process and initialize successfully at 07/05/2018 16:11:03
+Read Email successfully at 07/05/2018 16:11:09
+Read config file successfully at 07/05/2018 16:12:42
+Kill process and initialize successfully at 07/05/2018 16:12:48
+Read Email successfully at 07/05/2018 16:12:56
+Read config file successfully at 07/05/2018 16:16:11
+Kill process and initialize successfully at 07/05/2018 16:16:14
+Read Email successfully at 07/05/2018 16:16:21
+Read config file successfully at 07/05/2018 16:20:36
+Kill process and initialize successfully at 07/05/2018 16:20:38
+Read Email successfully at 07/05/2018 16:20:48
+Read config file successfully at 07/05/2018 16:35:35
+Kill process and initialize successfully at 07/05/2018 16:35:42
+Read config file successfully at 07/05/2018 16:38:47
+Kill process and initialize successfully at 07/05/2018 16:38:51
+Read Email successfully at 07/05/2018 16:38:57
+Read config file successfully at 07/05/2018 16:44:54
+Kill process and initialize successfully at 07/05/2018 16:44:57
+Read Email successfully at 07/05/2018 16:45:03
+Read config file successfully at 07/05/2018 16:55:16
+Kill process and initialize successfully at 07/05/2018 16:55:19
+Read Email successfully at 07/05/2018 16:55:26
+Read config file successfully at 07/05/2018 17:07:10
+Kill process and initialize successfully at 07/05/2018 17:07:16
+Read Email successfully at 07/05/2018 17:07:24
+Read config file successfully at 07/05/2018 17:15:13
+Kill process and initialize successfully at 07/05/2018 17:15:17
+Read config file successfully at 07/05/2018 17:16:38
+Kill process and initialize successfully at 07/05/2018 17:16:43
+Read Email successfully at 07/05/2018 17:16:46
+Error in reading excel file at 07/05/2018 17:16:47
+Read config file successfully at 07/05/2018 17:19:59
+Kill process and initialize successfully at 07/05/2018 17:20:02
+Read Email successfully at 07/05/2018 17:20:05
+Read config file successfully at 07/06/2018 09:06:32
+Kill process and initialize successfully at 07/06/2018 09:06:37
+Read Email successfully at 07/06/2018 09:06:39
+Error in reading excel file at 07/06/2018 09:06:40
+Read config file successfully at 07/06/2018 09:17:35
+Kill process and initialize successfully at 07/06/2018 09:17:39
+Read Email successfully at 07/06/2018 09:17:40
+Read config file successfully at 07/06/2018 09:21:06
+Kill process and initialize successfully at 07/06/2018 09:21:09
+Read Email successfully at 07/06/2018 09:21:10
+Read config file successfully at 07/06/2018 09:31:10
+Kill process and initialize successfully at 07/06/2018 09:31:14
+Read Email successfully at 07/06/2018 09:31:14
+Read config file successfully at 07/06/2018 09:41:13
+Kill process and initialize successfully at 07/06/2018 09:41:17
+Read Email successfully at 07/06/2018 09:41:19
+Process email successfully at 07/06/2018 09:41:32
+Read config file successfully at 07/06/2018 09:57:38
+Kill process and initialize successfully at 07/06/2018 09:57:45
+Read Email successfully at 07/06/2018 09:57:47
+Error in reading excel file at 07/06/2018 09:58:01
+Read config file successfully at 07/06/2018 10:16:15
+Kill process and initialize successfully at 07/06/2018 10:16:23
+Read Email successfully at 07/06/2018 10:16:26
+Error in reading excel file at 07/06/2018 10:16:27
+Read config file successfully at 07/06/2018 10:23:18
+Kill process and initialize successfully at 07/06/2018 10:23:24
+Read Email successfully at 07/06/2018 10:23:25
+Error in reading excel file at 07/06/2018 10:23:27
+Read config file successfully at 07/06/2018 10:49:12
+Kill process and initialize successfully at 07/06/2018 10:49:55
+Read Email successfully at 07/06/2018 10:50:27
+Error in reading excel file at 07/06/2018 10:52:24
+Read config file successfully at 07/06/2018 10:57:20
+Kill process and initialize successfully at 07/06/2018 10:57:26
+Read Email successfully at 07/06/2018 10:57:31
+Read config file successfully at 07/06/2018 10:59:08
+Kill process and initialize successfully at 07/06/2018 10:59:11
+Read Email successfully at 07/06/2018 10:59:15
+Read config file successfully at 07/06/2018 10:59:42
+Kill process and initialize successfully at 07/06/2018 10:59:48
+Read Email successfully at 07/06/2018 10:59:52
+Read config file successfully at 07/06/2018 11:23:42
+Kill process and initialize successfully at 07/06/2018 11:23:45
+Read Email successfully at 07/06/2018 11:23:50
+Read config file successfully at 07/06/2018 11:27:28
+Kill process and initialize successfully at 07/06/2018 11:27:32
+Read Email successfully at 07/06/2018 11:27:37
+Read config file successfully at 07/06/2018 11:29:30
+Kill process and initialize successfully at 07/06/2018 11:29:33
+Read Email successfully at 07/06/2018 11:29:38
+Read config file successfully at 07/06/2018 11:35:37
+Kill process and initialize successfully at 07/06/2018 11:35:43
+Read Email successfully at 07/06/2018 11:35:47
+Process email successfully at 07/06/2018 11:36:07
+Read config file successfully at 07/06/2018 11:55:09
+Kill process and initialize successfully at 07/06/2018 11:55:17
+Read Email successfully at 07/06/2018 11:55:20
+Process email successfully at 07/06/2018 11:55:58
+Read config file successfully at 07/06/2018 12:26:00
+Kill process and initialize successfully at 07/06/2018 12:26:05
+Read Email successfully at 07/06/2018 12:26:09
+Process email successfully at 07/06/2018 12:26:42
+Read config file successfully at 07/06/2018 13:46:03
+Kill process and initialize successfully at 07/06/2018 13:46:11
+Read Email successfully at 07/06/2018 13:46:15
+Process email successfully at 07/06/2018 13:47:00
+Read config file successfully at 07/06/2018 14:16:53
+Kill process and initialize successfully at 07/06/2018 14:16:58
+Read Email successfully at 07/06/2018 14:17:01
+Process email successfully at 07/06/2018 14:17:54
+Read config file successfully at 07/06/2018 15:05:46
+Kill process and initialize successfully at 07/06/2018 15:05:52
+Read Email successfully at 07/06/2018 15:05:54
+Error in reading excel file at 07/06/2018 15:06:40
+Read config file successfully at 07/06/2018 15:12:39
+Kill process and initialize successfully at 07/06/2018 15:12:46
+Read Email successfully at 07/06/2018 15:12:48
+Error in reading excel file at 07/06/2018 15:13:24
+Read config file successfully at 07/06/2018 15:29:12
+Kill process and initialize successfully at 07/06/2018 15:29:15
+Read Email successfully at 07/06/2018 15:29:17
+Read config file successfully at 07/06/2018 15:31:54
+Kill process and initialize successfully at 07/06/2018 15:31:57
+Read Email successfully at 07/06/2018 15:31:58
+Error in reading excel file at 07/06/2018 15:32:23
+Read config file successfully at 07/06/2018 15:35:59
+Kill process and initialize successfully at 07/06/2018 15:36:02
+Read Email successfully at 07/06/2018 15:36:03
+Error in reading excel file at 07/06/2018 15:38:02
+Read config file successfully at 07/06/2018 15:39:53
+Kill process and initialize successfully at 07/06/2018 15:39:55
+Read Email successfully at 07/06/2018 15:39:58
+Read config file successfully at 07/06/2018 15:41:36
+Kill process and initialize successfully at 07/06/2018 15:41:40
+Read Email successfully at 07/06/2018 15:41:41
+Error in reading excel file at 07/06/2018 15:41:45
+Read config file successfully at 07/06/2018 15:45:26
+Kill process and initialize successfully at 07/06/2018 15:45:30
+Read Email successfully at 07/06/2018 15:45:32
+Error in reading excel file at 07/06/2018 15:46:30
+Read config file successfully at 07/06/2018 15:56:53
+Kill process and initialize successfully at 07/06/2018 15:56:58
+Read Email successfully at 07/06/2018 15:57:08
+Read config file successfully at 07/06/2018 16:00:22
+Kill process and initialize successfully at 07/06/2018 16:00:27
+Read config file successfully at 07/06/2018 16:02:20
+Kill process and initialize successfully at 07/06/2018 16:02:22
+Read Email successfully at 07/06/2018 16:02:26
+Process email successfully at 07/06/2018 16:03:14
+Read config file successfully at 07/06/2018 16:07:56
+Kill process and initialize successfully at 07/06/2018 16:08:00
+Read Email successfully at 07/06/2018 16:08:01
+Process email successfully at 07/06/2018 16:08:41
+Read config file successfully at 07/06/2018 16:15:01
+Kill process and initialize successfully at 07/06/2018 16:15:07
+Read Email successfully at 07/06/2018 16:15:08
+Process email successfully at 07/06/2018 16:16:26
+Read config file successfully at 07/06/2018 16:20:08
+Kill process and initialize successfully at 07/06/2018 16:20:14
+Read Email successfully at 07/06/2018 16:20:16
+Process email successfully at 07/06/2018 16:22:35
+Read config file successfully at 07/09/2018 08:47:41
+Kill process and initialize successfully at 07/09/2018 08:47:47
+Read Email successfully at 07/09/2018 08:47:51
+Error in reading excel file at 07/09/2018 08:48:41
+Read config file successfully at 07/09/2018 08:53:48
+Kill process and initialize successfully at 07/09/2018 08:53:54
+Read Email successfully at 07/09/2018 08:53:58
+Error in reading excel file at 07/09/2018 08:54:39
+Read config file successfully at 07/09/2018 08:59:30
+Kill process and initialize successfully at 07/09/2018 08:59:33
+Read Email successfully at 07/09/2018 08:59:37
+Process email successfully at 07/09/2018 09:00:52
+Read config file successfully at 07/09/2018 09:15:43
+Kill process and initialize successfully at 07/09/2018 09:15:46
+Read Email successfully at 07/09/2018 09:15:49
+Read config file successfully at 07/09/2018 09:17:26
+Kill process and initialize successfully at 07/09/2018 09:17:30
+Read Email successfully at 07/09/2018 09:17:31
+Process email successfully at 07/09/2018 09:18:39
+Read config file successfully at 07/09/2018 10:10:42
+Kill process and initialize successfully at 07/09/2018 10:10:47
+Read Email successfully at 07/09/2018 10:11:00
+Process email successfully at 07/09/2018 10:12:21
+Read config file successfully at 07/09/2018 10:53:27
+Kill process and initialize successfully at 07/09/2018 10:53:33
+Read Email successfully at 07/09/2018 10:53:55
+Process email successfully at 07/09/2018 10:54:54
+Read config file successfully at 07/09/2018 11:07:07
+Kill process and initialize successfully at 07/09/2018 11:07:10
+Read Email successfully at 07/09/2018 11:07:13
+Process email successfully at 07/09/2018 11:07:59
+Read config file successfully at 07/09/2018 14:09:08
+Kill process and initialize successfully at 07/09/2018 14:09:16
+Read Email successfully at 07/09/2018 14:09:24
+Process email successfully at 07/09/2018 14:10:21
+Read config file successfully at 07/09/2018 14:36:21
+Kill process and initialize successfully at 07/09/2018 14:36:26
+Read Email successfully at 07/09/2018 14:36:30
+Process email successfully at 07/09/2018 14:38:37
+Read config file successfully at 07/09/2018 14:42:47
+Kill process and initialize successfully at 07/09/2018 14:42:51
+Read config file successfully at 07/09/2018 14:43:16
+Kill process and initialize successfully at 07/09/2018 14:43:18
+Read Email successfully at 07/09/2018 14:43:20
+Process email successfully at 07/09/2018 14:44:49
+Read config file successfully at 07/09/2018 15:10:36
+Kill process and initialize successfully at 07/09/2018 15:10:39
+Read Email successfully at 07/09/2018 15:10:43
+Process email successfully at 07/09/2018 15:12:13
+Read config file successfully at 07/09/2018 15:50:35
+Kill process and initialize successfully at 07/09/2018 15:50:39
+Read Email successfully at 07/09/2018 15:50:41
+Process email successfully at 07/09/2018 15:50:50
+Read config file successfully at 07/09/2018 16:14:04
+Kill process and initialize successfully at 07/09/2018 16:14:08
+Read Email successfully at 07/09/2018 16:14:13
+Process email successfully at 07/09/2018 16:14:26
+Read config file successfully at 07/09/2018 16:22:56
+Kill process and initialize successfully at 07/09/2018 16:22:59
+Read Email successfully at 07/09/2018 16:23:03
+Process email successfully at 07/09/2018 16:23:09
+Read config file successfully at 07/10/2018 08:48:19
+Kill process and initialize successfully at 07/10/2018 08:48:26
+Error in reading Email at 07/10/2018 08:48:29
+Read config file successfully at 07/10/2018 08:50:24
+Kill process and initialize successfully at 07/10/2018 08:50:28
+Read Email successfully at 07/10/2018 08:50:31
+Process email successfully at 07/10/2018 08:52:59
+Read config file successfully at 07/10/2018 08:59:26
+Kill process and initialize successfully at 07/10/2018 08:59:27
+Read Email successfully at 07/10/2018 08:59:32
+Process email successfully at 07/10/2018 09:00:02
+Read config file successfully at 07/10/2018 14:39:49
+Kill process and initialize successfully at 07/10/2018 14:39:54
+Read Email successfully at 07/10/2018 14:39:58
+Process email successfully at 07/10/2018 14:43:07
+Read config file successfully at 07/10/2018 14:54:07
+Kill process and initialize successfully at 07/10/2018 14:54:07
+Read Email successfully at 07/10/2018 14:54:12
+Process email successfully at 07/10/2018 14:54:20
+Read config file successfully at 07/10/2018 15:03:41
+Kill process and initialize successfully at 07/10/2018 15:03:42
+Read Email successfully at 07/10/2018 15:03:47
+Process email successfully at 07/10/2018 15:03:54
+Read config file successfully at 07/10/2018 15:30:25
+Kill process and initialize successfully at 07/10/2018 15:30:26
+Read Email successfully at 07/10/2018 15:30:33
+Error in extract info from STconnect at 07/10/2018 15:30:36
+Read config file successfully at 07/10/2018 15:34:46
+Kill process and initialize successfully at 07/10/2018 15:34:49
+Read Email successfully at 07/10/2018 15:34:54
+Error in extract info from STconnect at 07/10/2018 15:34:58
+Read config file successfully at 07/10/2018 15:39:43
+Kill process and initialize successfully at 07/10/2018 15:39:47
+Read Email successfully at 07/10/2018 15:39:52
+Error in extract info from STconnect at 07/10/2018 15:39:56
+Read config file successfully at 07/10/2018 15:51:40
+Kill process and initialize successfully at 07/10/2018 15:51:48
+Read Email successfully at 07/10/2018 15:51:53
+Error in extract info from STconnect at 07/10/2018 15:52:33
+Read config file successfully at 07/10/2018 15:55:35
+Kill process and initialize successfully at 07/10/2018 15:55:37
+Read Email successfully at 07/10/2018 15:55:42
+Read config file successfully at 07/10/2018 16:16:03
+Kill process and initialize successfully at 07/10/2018 16:16:03
+Read Email successfully at 07/10/2018 16:16:09
+Error in extracting excel data at 07/10/2018 16:16:11
+Read config file successfully at 07/10/2018 16:37:28
+Kill process and initialize successfully at 07/10/2018 16:37:33
+Read Email successfully at 07/10/2018 16:37:39
+Error in extracting excel data at 07/10/2018 16:38:07
+Read config file successfully at 07/10/2018 16:43:22
+Kill process and initialize successfully at 07/10/2018 16:43:25
+Read Email successfully at 07/10/2018 16:43:30
+Read config file successfully at 07/10/2018 16:50:04
+Kill process and initialize successfully at 07/10/2018 16:50:07
+Read Email successfully at 07/10/2018 16:50:12
+Read config file successfully at 07/10/2018 17:17:59
+Kill process and initialize successfully at 07/10/2018 17:18:02
+Read Email successfully at 07/10/2018 17:18:08
+Read config file successfully at 07/11/2018 09:02:37
+Kill process and initialize successfully at 07/11/2018 09:02:38
+Read Email successfully at 07/11/2018 09:02:47
+Read config file successfully at 07/11/2018 09:13:50
+Kill process and initialize successfully at 07/11/2018 09:13:50
+Read Email successfully at 07/11/2018 09:13:55
+Error in reading excel file at 07/11/2018 09:14:25
+Read config file successfully at 07/11/2018 09:30:03
+Kill process and initialize successfully at 07/11/2018 09:30:04
+Read Email successfully at 07/11/2018 09:30:09
+Error in reading excel file at 07/11/2018 09:30:30
+Read config file successfully at 07/11/2018 09:33:21
+Kill process and initialize successfully at 07/11/2018 09:33:21
+Read Email successfully at 07/11/2018 09:33:33
+Error in reading excel file at 07/11/2018 09:34:03
+Read config file successfully at 07/11/2018 09:38:20
+Kill process and initialize successfully at 07/11/2018 09:38:20
+Read Email successfully at 07/11/2018 09:38:27
+Error in reading excel file at 07/11/2018 09:38:59
+Read config file successfully at 07/11/2018 09:47:53
+Kill process and initialize successfully at 07/11/2018 09:47:53
+Read Email successfully at 07/11/2018 09:47:56
+Error in sorting excel file records at 07/11/2018 09:49:03
+Read config file successfully at 07/11/2018 10:04:01
+Kill process and initialize successfully at 07/11/2018 10:04:01
+Read Email successfully at 07/11/2018 10:04:05
+Error in sorting excel file records at 07/11/2018 10:05:05
+Read config file successfully at 07/11/2018 10:09:16
+Kill process and initialize successfully at 07/11/2018 10:09:16
+Read Email successfully at 07/11/2018 10:09:19
+Error in sorting excel file records at 07/11/2018 10:09:58
+Read config file successfully at 07/11/2018 10:12:05
+Kill process and initialize successfully at 07/11/2018 10:12:05
+Read Email successfully at 07/11/2018 10:12:09
+Error in sorting excel file records at 07/11/2018 10:12:43
+Read config file successfully at 07/11/2018 10:14:13
+Kill process and initialize successfully at 07/11/2018 10:14:14
+Read Email successfully at 07/11/2018 10:14:17
+Error in sorting excel file records at 07/11/2018 10:15:07
+Read config file successfully at 07/11/2018 10:49:31
+Kill process and initialize successfully at 07/11/2018 10:49:32
+Read Email successfully at 07/11/2018 10:49:37
+Read config file successfully at 07/11/2018 11:07:29
+Kill process and initialize successfully at 07/11/2018 11:07:29
+Read Email successfully at 07/11/2018 11:07:32
+Error in extracting excel data at 07/11/2018 11:07:33
+Read config file successfully at 07/11/2018 11:11:07
+Kill process and initialize successfully at 07/11/2018 11:11:07
+Read Email successfully at 07/11/2018 11:11:13
+Read config file successfully at 07/11/2018 11:26:32
+Kill process and initialize successfully at 07/11/2018 11:26:32
+Read Email successfully at 07/11/2018 11:26:39
+Read config file successfully at 07/11/2018 11:52:10
+Kill process and initialize successfully at 07/11/2018 11:52:11
+Read Email successfully at 07/11/2018 11:52:15
+Read config file successfully at 07/11/2018 13:33:51
+Kill process and initialize successfully at 07/11/2018 13:33:52
+Read Email successfully at 07/11/2018 13:33:59
+Read config file successfully at 07/11/2018 16:22:48
+Kill process and initialize successfully at 07/11/2018 16:22:48
+Read Email successfully at 07/11/2018 16:22:56
+Read config file successfully at 07/11/2018 16:25:46
+Kill process and initialize successfully at 07/11/2018 16:25:46
+Read Email successfully at 07/11/2018 16:25:52
+Read config file successfully at 07/11/2018 16:28:07
+Kill process and initialize successfully at 07/11/2018 16:28:07
+Read Email successfully at 07/11/2018 16:28:12
+Read config file successfully at 07/12/2018 10:47:46
+Kill process and initialize successfully at 07/12/2018 10:47:47
+Read Email successfully at 07/12/2018 10:47:54
+Read config file successfully at 07/12/2018 11:00:35
+Kill process and initialize successfully at 07/12/2018 11:00:35
+Read Email successfully at 07/12/2018 11:00:42
+Read config file successfully at 07/12/2018 11:12:45
+Kill process and initialize successfully at 07/12/2018 11:12:45
+Read Email successfully at 07/12/2018 11:12:51
+Read config file successfully at 07/12/2018 11:45:09
+Kill process and initialize successfully at 07/12/2018 11:45:10
+Read Email successfully at 07/12/2018 11:45:16
+Read config file successfully at 07/12/2018 13:16:11
+Kill process and initialize successfully at 07/12/2018 13:16:12
+Read Email successfully at 07/12/2018 13:16:19
+Read config file successfully at 07/12/2018 13:23:54
+Kill process and initialize successfully at 07/12/2018 13:23:55
+Read Email successfully at 07/12/2018 13:23:59
+Read config file successfully at 07/12/2018 14:17:17
+Kill process and initialize successfully at 07/12/2018 14:17:17
+Read Email successfully at 07/12/2018 14:17:21
+Read config file successfully at 07/12/2018 14:39:45
+Kill process and initialize successfully at 07/12/2018 14:39:45
+Read Email successfully at 07/12/2018 14:39:51
+Read config file successfully at 07/12/2018 15:10:39
+Kill process and initialize successfully at 07/12/2018 15:10:40
+Read Email successfully at 07/12/2018 15:10:46
+Read config file successfully at 07/12/2018 15:12:43
+Kill process and initialize successfully at 07/12/2018 15:12:43
+Read Email successfully at 07/12/2018 15:12:49
+Read config file successfully at 07/12/2018 15:20:59
+Kill process and initialize successfully at 07/12/2018 15:20:59
+Read Email successfully at 07/12/2018 15:21:05
+Read config file successfully at 07/12/2018 15:41:08
+Kill process and initialize successfully at 07/12/2018 15:41:09
+Read Email successfully at 07/12/2018 15:41:14
+Error in sorting excel file records at 07/12/2018 15:42:21
+Read config file successfully at 07/12/2018 15:44:48
+Kill process and initialize successfully at 07/12/2018 15:44:48
+Read Email successfully at 07/12/2018 15:44:52
+Read config file successfully at 07/12/2018 16:30:24
+Kill process and initialize successfully at 07/12/2018 16:30:24
+Read Email successfully at 07/12/2018 16:30:28
+Read config file successfully at 07/12/2018 18:14:45
+Kill process and initialize successfully at 07/12/2018 18:14:48
+Read Email successfully at 07/12/2018 18:14:49
+Error in sorting excel file records at 07/12/2018 18:16:51
+Read config file successfully at 07/12/2018 18:23:08
+Kill process and initialize successfully at 07/12/2018 18:23:08
+Read Email successfully at 07/12/2018 18:23:08
+Read config file successfully at 07/12/2018 19:13:00
+Kill process and initialize successfully at 07/12/2018 19:13:00
+Read Email successfully at 07/12/2018 19:13:00
+Read config file successfully at 07/13/2018 17:42:42
+Kill process and initialize successfully at 07/13/2018 17:42:42
+Read Email successfully at 07/13/2018 17:42:42
+Read config file successfully at 07/13/2018 18:06:12
+Kill process and initialize successfully at 07/13/2018 18:06:13
+Read Email successfully at 07/13/2018 18:06:14
+Read config file successfully at 07/14/2018 03:00:01
+Kill process and initialize successfully at 07/14/2018 03:00:01
+Read Email successfully at 07/14/2018 03:00:01
+Read config file successfully at 07/16/2018 03:00:01
+Kill process and initialize successfully at 07/16/2018 03:00:01
+Read Email successfully at 07/16/2018 03:00:02
+Read config file successfully at 07/16/2018 12:16:30
+Kill process and initialize successfully at 07/16/2018 12:16:30
+Read Email successfully at 07/16/2018 12:16:30
+Read config file successfully at 07/16/2018 12:18:34
+Kill process and initialize successfully at 07/16/2018 12:18:34
+Read Email successfully at 07/16/2018 12:18:34
+Read config file successfully at 07/16/2018 12:22:57
+Kill process and initialize successfully at 07/16/2018 12:22:57
+Read Email successfully at 07/16/2018 12:22:57
+Read config file successfully at 07/16/2018 12:23:35
+Kill process and initialize successfully at 07/16/2018 12:23:35
+Read Email successfully at 07/16/2018 12:23:35
+Read config file successfully at 07/16/2018 12:25:19
+Kill process and initialize successfully at 07/16/2018 12:25:19
+Read Email successfully at 07/16/2018 12:25:20
+Read config file successfully at 07/16/2018 12:27:11
+Kill process and initialize successfully at 07/16/2018 12:27:11
+Read Email successfully at 07/16/2018 12:27:11
+Read config file successfully at 07/16/2018 12:28:28
+Kill process and initialize successfully at 07/16/2018 12:28:28
+Read Email successfully at 07/16/2018 12:28:28
+Read config file successfully at 07/17/2018 03:00:01
+Kill process and initialize successfully at 07/17/2018 03:00:02
+Read Email successfully at 07/17/2018 03:00:02
+Read config file successfully at 07/17/2018 12:10:14
+Kill process and initialize successfully at 07/17/2018 12:10:15
+Read Email successfully at 07/17/2018 12:10:15
+Read config file successfully at 07/18/2018 03:00:02
+Kill process and initialize successfully at 07/18/2018 03:00:02
+Read Email successfully at 07/18/2018 03:00:02
+Read config file successfully at 07/18/2018 08:51:14
+Kill process and initialize successfully at 07/18/2018 08:51:14
+Read Email successfully at 07/18/2018 08:51:14
+Read config file successfully at 07/19/2018 03:00:02
+Kill process and initialize successfully at 07/19/2018 03:00:02
+Read Email successfully at 07/19/2018 03:00:03
+Read config file successfully at 07/19/2018 18:01:10
+Kill process and initialize successfully at 07/19/2018 18:01:10
+Read Email successfully at 07/19/2018 18:01:10
+Read config file successfully at 07/20/2018 03:00:02
+Kill process and initialize successfully at 07/20/2018 03:00:02
+Read Email successfully at 07/20/2018 03:00:02
+Read config file successfully at 07/21/2018 03:00:02
+Kill process and initialize successfully at 07/21/2018 03:00:02
+Read Email successfully at 07/21/2018 03:00:03
+Read config file successfully at 07/22/2018 03:00:02
+Kill process and initialize successfully at 07/22/2018 03:00:02
+Read Email successfully at 07/22/2018 03:00:03
+Read config file successfully at 07/23/2018 03:00:02
+Kill process and initialize successfully at 07/23/2018 03:00:02
+Read Email successfully at 07/23/2018 03:00:03
+Read config file successfully at 07/24/2018 03:00:01
+Kill process and initialize successfully at 07/24/2018 03:00:02
+Read Email successfully at 07/24/2018 03:00:02
+Read config file successfully at 07/24/2018 09:18:58
+Kill process and initialize successfully at 07/24/2018 09:18:59
+Read Email successfully at 07/24/2018 09:18:59
+Read config file successfully at 07/24/2018 14:28:20
+Kill process and initialize successfully at 07/24/2018 14:28:20
+Read Email successfully at 07/24/2018 14:28:20
+Read config file successfully at 07/25/2018 03:00:01
+Kill process and initialize successfully at 07/25/2018 03:00:02
+Read Email successfully at 07/25/2018 03:00:02
+Read config file successfully at 07/26/2018 03:00:02
+Kill process and initialize successfully at 07/26/2018 03:00:02
+Read Email successfully at 07/26/2018 03:00:03
+Read config file successfully at 07/27/2018 03:00:03
+Kill process and initialize successfully at 07/27/2018 03:00:03
+Read Email successfully at 07/27/2018 03:00:04
+Read config file successfully at 07/27/2018 15:15:51
+Kill process and initialize successfully at 07/27/2018 15:15:51
+Read Email successfully at 07/27/2018 15:15:51
+Read config file successfully at 07/28/2018 03:00:02
+Kill process and initialize successfully at 07/28/2018 03:00:02
+Read Email successfully at 07/28/2018 03:00:02
+Read config file successfully at 07/29/2018 03:00:02
+Kill process and initialize successfully at 07/29/2018 03:00:02
+Read Email successfully at 07/29/2018 03:00:02
+Read config file successfully at 07/30/2018 03:00:01
+Kill process and initialize successfully at 07/30/2018 03:00:02
+Read Email successfully at 07/30/2018 03:00:02
+Read config file successfully at 08/02/2018 09:17:49
+Kill process and initialize successfully at 08/02/2018 09:17:49
+Read Email successfully at 08/02/2018 09:17:49
+Error in sorting excel file records at 08/02/2018 09:17:58
+Read config file successfully at 08/03/2018 16:52:08
+Kill process and initialize successfully at 08/03/2018 16:52:08
+Read Email successfully at 08/03/2018 16:52:09
+Error in sorting excel file records at 08/03/2018 16:52:17
+Read config file successfully at 08/06/2018 09:08:04
+Kill process and initialize successfully at 08/06/2018 09:08:05
+Read Email successfully at 08/06/2018 09:08:05
+Error in sorting excel file records at 08/06/2018 09:08:17
+Read config file successfully at 08/07/2018 15:26:09
+Kill process and initialize successfully at 08/07/2018 15:26:11
+Read Email successfully at 08/07/2018 15:26:12
+Error in sorting excel file records at 08/07/2018 15:26:57
+Read config file successfully at 08/07/2018 15:32:29
+Kill process and initialize successfully at 08/07/2018 15:32:31
+Read Email successfully at 08/07/2018 15:32:31
+Read config file successfully at 08/07/2018 15:33:16
+Kill process and initialize successfully at 08/07/2018 15:33:18
+Read Email successfully at 08/07/2018 15:33:19
+Read config file successfully at 08/07/2018 15:36:49
+Kill process and initialize successfully at 08/07/2018 15:36:51
+Read Email successfully at 08/07/2018 15:36:52
+Read config file successfully at 08/07/2018 15:39:00
+Kill process and initialize successfully at 08/07/2018 15:39:02
+Read Email successfully at 08/07/2018 15:39:03
+Read config file successfully at 08/07/2018 15:42:08
+Kill process and initialize successfully at 08/07/2018 15:42:10
+Read Email successfully at 08/07/2018 15:42:10
+Read config file successfully at 08/08/2018 03:00:01
+Kill process and initialize successfully at 08/08/2018 03:00:01
+Read Email successfully at 08/08/2018 03:00:02
+Read config file successfully at 08/09/2018 03:00:02
+Kill process and initialize successfully at 08/09/2018 03:00:02
+Read Email successfully at 08/09/2018 03:00:02
+Read config file successfully at 08/10/2018 03:00:03
+Kill process and initialize successfully at 08/10/2018 03:00:03
+Read Email successfully at 08/10/2018 03:00:03
+Read config file successfully at 08/10/2018 09:39:58
+Kill process and initialize successfully at 08/10/2018 09:40:00
+Read Email successfully at 08/10/2018 09:40:01

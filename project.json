@@ -1,0 +1,57 @@
+{
+  "name": "ConsolidateAlerts",
+  "description": "Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Activities": "[1.0.1.0]",
+    "UiPath.Excel.Activities": "[2.3.6682.26635]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]",
+    "UiPath.PDF.Activities": "[1.1.6732.21973]",
+    "UiPath.System.Activities": "[18.3.6897.22524]",
+    "UiPath.UIAutomation.Activities": "[18.3.6897.22543]",
+    "UiPath.Word.Activities": "[1.1.6479.13205]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.2.0",
+  "projectVersion": "1.0.6785.32096",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "f77f5536-2925-4576-b44e-2e167dd2e6d2",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
